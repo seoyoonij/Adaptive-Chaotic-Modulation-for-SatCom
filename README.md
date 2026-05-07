@@ -11,8 +11,8 @@ Spring 2026 Final project
 --> Performance metrics: BER vs SNR, BER vs Throughput, Reconstructed image, RMSE comparison table 
 
 ### Supporting functions
-adaptive_controller.m
-mod_qam.m: (M: 2= BPSK, 4= QPSK, 16= 16QAM)
+adaptive_controller.m \
+mod_qam.m: (M: 2= BPSK, 4= QPSK, 16= 16QAM) \
 mod_csk.m: CSK
 
 ## Adaptive Coding and Modulation (ACM)
